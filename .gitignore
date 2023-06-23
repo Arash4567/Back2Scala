@@ -1,0 +1,6 @@
+logs
+target
+local.conf
+/.idea
+/.bsp
+.env
