@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\shomo\IdeaProjects\back-to-scala\src\main\scala\dev\scala\Main.scala:12:32: could not find implicit value for parameter logger: org.typelevel.log4cats.Logger[cats.effect.IO][0m
+[0m[[0m[31merror[0m] [0m[0m  val routes: HttpRoutes[IO] = new ExampleRouter[IO].routes[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

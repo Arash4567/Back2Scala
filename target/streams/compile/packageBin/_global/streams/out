@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\back-to-scala_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala\routes\ExampleRouter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala\routes\ExampleRouter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dev\scala\routes\ExampleRouter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\dev\scala\routes\ExampleRouter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\shomo\IdeaProjects\back-to-scala\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
