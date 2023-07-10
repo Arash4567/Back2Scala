@@ -6,5 +6,10 @@ lazy val root = (project in file("."))
   .settings(
     name := "back-to-scala",
     libraryDependencies ++=
-      Dependencies.org.http4s.all ++ Seq(Dependencies.ch.qos.logback),
+      Dependencies.org.http4s.all ++
+        Dependencies.com.beachape.enumeratum.all ++
+        Seq(
+          Dependencies.ch.qos.logback,
+          Dependencies.org.tpolecat.skunk.core,
+        ),
   )
